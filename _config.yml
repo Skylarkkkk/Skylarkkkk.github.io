@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Haoling Huang / Personal Homepage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Haoling Huang"
 description              : &description "An undergraduate student from Sun Yat-Sen University"
