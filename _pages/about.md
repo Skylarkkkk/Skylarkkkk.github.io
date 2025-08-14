@@ -18,9 +18,9 @@ You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 *   **[Month Year]**: &nbsp; Started a research internship at **[Lab/Company Name]**. -->
 *   **[2025.7]**: &nbsp; Won the **National First Prize** in the **CRAIC 2025**.
 *   **[2025.7]**: &nbsp; Won the **National First Prize** in the **2025 Intellifent Unmanned Systems Application Challenge**.
-<!-- *   **[2025.2]**: &nbsp; Won the **Honorable Mention** in the **MCM 2025**.
-*   **[2024.12]**: &nbsp; Won the **Provincial Second Prize** in the **CMC 2025**.
-*   **[2024.11]**: &nbsp; Received the **First Prize of SYSU**. -->
+<!-- *   **[2025.2]**: &nbsp; Won the **Honorable Mention** in the **MCM 2025**.-->
+<!-- *   **[2024.12]**: &nbsp; Won the **Provincial Second Prize** in the **CMC 2025**. -->
+<!-- *   **[2024.11]**: &nbsp; Received the **First Prize of SYSU**.  -->
 
 <!-- ## Publications
 *   **[Paper Title]**  
