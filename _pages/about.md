@@ -14,6 +14,7 @@ You can find my CV here: [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 [Email](mailto:huanghling8@mail2.sysu.edu.cn) / [Github](https://github.com/Skylarkkkk)
 
 ## News
+*   **[2025.10]**: &nbsp; won the **National Scholarship**.
 *   **[2025.7]**: &nbsp; Won the **National First Prize** in the **CRAIC 2025**.
 *   **[2025.7]**: &nbsp; Won the **National First Prize** in the **2025 Intellifent Unmanned Systems Application Challenge**.
 
